@@ -1,5 +1,6 @@
-National Gallery Digital Documentation  contains  Conservation Documentation  document|document
-Conservation Documentation  contains  Conservation Dossiers |document
-Conservation Documentation  contains  Conservation Reports |document
-Conservation Documentation  contains  Technical Examination |event
-Conservation Documentation  contains  Condition Check |event
+National Gallery Digital Documentation	contains	Conservation Documentation	document|document
+Conservation Documentation	contains (1 to n)	Conservation Dossier	document
+Conservation Documentation	contains (1 to n)	Conservation Report	|document
+Conservation Documentation	contains (1 to n)	Technical Examination	|event
+Conservation Documentation	contains (1 to n)	Conservation Treatment	|event
+Conservation Documentation	contains (1 to n)	Condition Check	|event
