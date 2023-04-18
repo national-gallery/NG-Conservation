@@ -1,0 +1,7 @@
+//flowchart LR
+
+Conservation Dossier	documents (1 to n)	Conservation Treatment	|event
+Conservation Dossier	related to (1 to 1)	Painting	|object
+Conservation Treatment	carried out by	Conservator	|actor
+Conservation Treatment	has	Start Date	|period
+Conservation Treatment	has	End Date	|period
