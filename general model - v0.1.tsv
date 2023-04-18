@@ -1,7 +1,7 @@
 //flowchart LR
 
 National Gallery Digital Documentation	contains	Conservation Documentation	object|object
-Conservation Documentation	contains (1 to n)	Conservation Dossier	document
+Conservation Documentation	contains (1 to n)	Conservation Dossier	|document
 Conservation Documentation	contains (1 to n)	Conservation Report	|document
 Conservation Documentation	contains (1 to n)	Technical Examination	|event
 Conservation Documentation	contains (1 to n)	Conservation Treatment	|event
