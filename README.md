@@ -17,5 +17,5 @@ Relates to models: All
 
 | | Date  | Author | Model | Schema | Comment |
 | :-----------: | :-----------: | :-----------: | :-----------: | :-----------: | ----------- |
-| | 18-04-2023 | J Padfield | [0.1](https://national-gallery.github.io/dynamic-modelling/?url=https://raw.githubusercontent.com/) | - | Very simple initial example |
+| | 18-04-2023 | J Padfield | [0.1](https://national-gallery.github.io/dynamic-modelling/?url=https://raw.githubusercontent.com/national-gallery/NG-Conservation/main/conservation%20dossier%20model%20-%20v0.1.tsv) | - | Very simple initial example |
 | | <img width=325 /> |<img width=175 /> | <img width=60 /> | <img width=60 /> | <img width=500 /> |
