@@ -6,10 +6,10 @@ When looking at NG Conservation data one may need to define a selection of diffe
 
 Relates to models: All
 
-| Date  | Author | Version | Link | Comment |
-| :-----------: | :-----------: | :-----------: | :-----------: | ----------- |
-| 18-04-2023 | J Padfield | 0.1 | [LINK](https://national-gallery.github.io/dynamic-modelling/?url=https://raw.githubusercontent.com/) | Creation of an initial draft example of how the various aspects of conservation documentation in the NG are connnected together.|
-| <img width=120/> |<img width=90/> | <img width=60/> | <img width=60/> | |
+| Date  | Author | Version | Comment |
+| :-----------: | :-----------: | :-----------: | ----------- |
+| 18-04-2023 | J Padfield | [0.1](https://national-gallery.github.io/dynamic-modelling/?url=https://raw.githubusercontent.com/national-gallery/NG-Conservation/main/general%20model%20-%20v0.1.tsv) | Creation of an initial draft example of how the various aspects of conservation documentation in the NG are connnected together.|
+| <img width=120/> |<img width=90/> |  <img width=60/> | |
 
 ## Specific Models
 
